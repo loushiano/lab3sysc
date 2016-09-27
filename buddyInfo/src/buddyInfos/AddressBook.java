@@ -5,6 +5,7 @@ public class AddressBook {
 	
 	//new change
 	//another new change
+	//hi
 	private ArrayList<BuddyInfo> myList;
 	
 	public AddressBook(){
