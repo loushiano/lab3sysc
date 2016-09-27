@@ -26,7 +26,7 @@ public class AddressBook {
 	public void removeBuddy(int index ){
 		myList.remove(index);
 		
-		
+		//hello
 	}
 	
 	public static void main (String[] args ){
