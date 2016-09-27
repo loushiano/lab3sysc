@@ -3,7 +3,7 @@ package buddyInfos;
 import java.util.*;
 public class AddressBook {
 	
-	
+	//new change
 	private ArrayList<BuddyInfo> myList;
 	
 	public AddressBook(){
